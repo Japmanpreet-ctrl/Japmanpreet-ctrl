@@ -2,7 +2,7 @@
 
 **Software Engineer** passionate about full-stack development, machine learning, and open-source. I’m currently a B.Tech student at ABV-IIITM Gwalior. I specialize in building scalable web applications and AI-driven solutions. In my projects, I often work with **React**, **Node.js**, **Python**, and **TensorFlow**.
 
-- 🔭 I’m working on: Development of [NETOWKING PROJECT](https://github.com/Japmanpreet-ctrl/CN)
+- 🔭 I’m working on: Development of [NETOWORKING PROJECT](https://github.com/Japmanpreet-ctrl/CN)
 - 🌱 I’m currently learning: Advanced machine learning and large-scale backend design.  
 - 💼 Pronouns: he/him  
 - ⚡ Fun fact: I won an Ideathon at IIT Indore and was a finalist at Hacksagon 2026!
