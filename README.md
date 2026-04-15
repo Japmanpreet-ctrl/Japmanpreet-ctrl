@@ -5,7 +5,7 @@
 - 🔭 I’m working on: Development of [NETWORKING PROJECT](https://github.com/Japmanpreet-ctrl/CN)
 - 🌱 I’m currently learning: Advanced machine learning and large-scale backend design.  
 - 💼 Pronouns: he/him  
-- ⚡ Fun fact: I won an Coding Arena at IIT Indore and was a finalist at Hacksagon 2026!
+- ⚡ Fun fact: I won  Coding Arena at IIT Indore and was a finalist at Hacksagon 2026!
 
 ## 🛠️ Skills
 
